@@ -1,15 +1,10 @@
-## Hi there 👋, I'm Sidharth Jain
-### Passionate about exploring new things.
+## Hi, I’m Sidharth 👋  
+### Senior Software Engineer with a strong focus on frontend performance, scalable UI architecture, and end-to-end system design.
 
-<!--
-**Sidharth99/Sidharth99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🌱 I’m currently learning machine learning and deep learning.
-- 👯 I’m looking to collaborate on any machine learning, deep learning or full stack web development projects.
-- 💬 Ask me about anything.
-- 📫 You can reach me at <a href='https://www.linkedin.com/in/sidharth-jain-66b608193/'><img src='https://i.stack.imgur.com/gVE0j.png'></a>
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Currently working with React, TypeScript, Microfrontends (Single-SPA, Module Federation), and Node/NestJS
+- 🧠 Actively exploring system design, AI-powered applications, and full-stack architectures
+- 🤝 Open to collaborating on frontend-heavy, full-stack, and architecture-focused projects
+- 💬 Happy to discuss frontend performance, scalable UI systems, and clean code practices
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sidharth-jain-66b608193/)
+
 
